@@ -12,7 +12,6 @@
 <a href="https://achhoubiplus.hashnode.dev" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
 </a>
-</a>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=red&size=30&center=true&vCenter=true&width=600&height=100&lines=Coder..&hearts;++;Front-End+Developer,;Back+End+Developer,;Cloud+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
