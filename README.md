@@ -16,7 +16,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=red&size=30&center=true&vCenter=true&width=600&height=100&lines=Coder..&hearts;++;Front-End+Developer,;Back+End+Developer,;Cloud+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-<br>
 </div>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
