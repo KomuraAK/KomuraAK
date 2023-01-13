@@ -127,7 +127,7 @@
 <div align="center">
         <h4>Design</h4>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
-                        src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PortgreSQL"></a>
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Inkscape_logo_2.svg/120px-Inkscape_logo_2.svg.png" alt="InkScape"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg"
                         alt="MySQL"></a>
