@@ -161,6 +161,8 @@
                         src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira"></a>
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png?20220905010122" alt="Git"></a>
 </div>
 <div align="center">
         <h4>S.O</h4>
