@@ -91,6 +91,35 @@
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg" alt="Mui"></a>
 </div>
+<div align="center">
+        <h4>Back-end</h4>
+        <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img width='30'
+                        margin="10px" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg"
+                        alt="html"></a>
+        <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px"
+                        width='30' src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg"
+                        alt="css"></a>
+        <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px"
+                        width='30' src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg"
+                        alt="javascript"></a>
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201"
+                        alt="TypeScript"></a>
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/svelte.svg" alt="Svelte"></a>
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/graphql.svg" alt="GraphQL"></a>
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="ReactJS"></a>
+        <a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" width='30'
+                        src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/bootstrap.svg"
+                        alt="bootstrap"></a>
+        <a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" width='30'
+                        src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/tailwind.svg"
+                        alt="tailwind"></a>
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg" alt="Mui"></a>
+</div>
 
 <img src='https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg' width='30' /> <img
         src='https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg' width='30' /> <img
