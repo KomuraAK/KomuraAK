@@ -59,7 +59,7 @@
 <br>
 
 ## Tech Stack
-
+<br />
 <div align="center">
         <h4>Front-end</h4>
         <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img width='30'
@@ -158,7 +158,6 @@
                         src="https://www.svgrepo.com/show/303125/apple-logo.svg" alt="MacOS"></a>
 </div>
 
-<br />
 <br />
 
 <h1 align="center">Skills I have! 🤸‍♂</h1>
