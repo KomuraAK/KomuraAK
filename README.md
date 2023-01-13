@@ -128,7 +128,7 @@
                         src="https://symbols.getvecta.com/stencil_9/32_aws-elastic-beanstalk.3cbb564d52.svg"
                         alt="ELB"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
-                        src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg" alt="MongoDB"></a>
+                        src="https://cdn.cdnlogo.com/logos/a/45/aws-api-gateway.svg" alt="MongoDB"></a>
 </div>
 
 <div align="center">
