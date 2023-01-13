@@ -107,6 +107,9 @@
                         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='32'
                         src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"
                         alt="Csharp"></a>
+                         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='32'
+                        src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg"
+                        alt="Prisma"></a>
 </div>
 
 <img src='https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg' width='30' /> <img
