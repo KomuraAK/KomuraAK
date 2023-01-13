@@ -109,8 +109,8 @@
                         alt="Prisma"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI"></a>
-                                <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='80'
-                        src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="Express"></a>
+                                <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express"></a>
 </div>
 
 <img src='https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg' width='30' /> <img
