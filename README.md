@@ -108,7 +108,7 @@
                         src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"
                         alt="Csharp"></a>
                          <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='32'
-                        src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg"
+                        src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_-330x400.png"
                         alt="Prisma"></a>
 </div>
 
