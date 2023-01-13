@@ -126,16 +126,16 @@
 
 <div align="center">
         <h4>Design</h4>
-                <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='15'
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='15'
                         src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/figma.svg" alt="Figma"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
-                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Inkscape_logo_2.svg/120px-Inkscape_logo_2.svg.png" alt="InkScape"></a>
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Inkscape_logo_2.svg/120px-Inkscape_logo_2.svg.png"
+                        alt="InkScape"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/120px-Blender_logo_no_text.svg.png"
                         alt="Blender"></a>
-                        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
-                        src="https://cdn.worldvectorlogo.com/logos/canva-1.svg"
-                        alt="Canva"></a>
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva"></a>
 
 </div>
 
@@ -143,25 +143,19 @@
         <h4>Tools</h4>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode"></a>
-                        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://img.icons8.com/color/512/console.png" alt="Terminal"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
-                        src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg"
-                        alt="Trello"></a>
+                        src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira"></a>
 </div>
 <div align="center">
         <h4>S.O</h4>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
-                        src="https://seeklogo.com/images/D/debian-logo-C136FDAF9E-seeklogo.com.png" alt="Debian"></a>
-                        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
-                        src="https://img.icons8.com/color/512/console.png" alt="Terminal"></a>
+                        src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
-                        src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg"
-                        alt="Trello"></a>
-        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
-                        src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira"></a>
+                        src="https://img.icons8.com/ios-filled/512/mac-os.png" alt="MacOS"></a>
 </div>
 <img src='https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg' width='30' /> <img
         src='https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg' width='30' /> <img
