@@ -116,7 +116,7 @@
 <div align="center">
         <h4>Database</h4>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
-                        src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="Nodejs"></a>
+                        src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PortgreSQL"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201"
                         alt="TypeScript"></a>
