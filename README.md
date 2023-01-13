@@ -126,7 +126,7 @@
 
 <div align="center">
         <h4>Design</h4>
-                <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='15'
                         src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/figma.svg" alt="Figma"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Inkscape_logo_2.svg/120px-Inkscape_logo_2.svg.png" alt="InkScape"></a>
