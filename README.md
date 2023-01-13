@@ -109,7 +109,7 @@
                         alt="Prisma"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI"></a>
-                                <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='85'
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='85'
                         src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="Express"></a>
 </div>
 
@@ -118,8 +118,8 @@
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PortgreSQL"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
-                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201"
-                        alt="TypeScript"></a>
+                        src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg"
+                        alt="MySQL"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png"
                         alt="Python"></a>
@@ -133,7 +133,7 @@
                         alt="Prisma"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI"></a>
-                                <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='85'
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='85'
                         src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="Express"></a>
 </div>
 
