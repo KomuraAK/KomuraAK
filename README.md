@@ -133,7 +133,7 @@
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/120px-Blender_logo_no_text.svg.png"
                         alt="Blender"></a>
-                        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='35'
+                        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://cdn.worldvectorlogo.com/logos/canva-1.svg"
                         alt="Canva"></a>
 
