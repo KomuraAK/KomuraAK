@@ -142,7 +142,7 @@
 <div align="center">
         <h4>Tools</h4>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
-                        src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PortgreSQL"></a>
+                        src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg"
                         alt="MySQL"></a>
