@@ -24,6 +24,7 @@
 </div>
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px>
+
 </picture> **About me**
 
 <picture> <img align="right"
@@ -73,7 +74,9 @@
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201"
             alt="TypeScript"></a>
              <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
-            src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/svelte.svg" alt="sass"></a>
+            src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/svelte.svg" alt="Svelte"></a>
+            <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+            src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg" alt="Mui"></a>
     <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
             src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/graphql.svg" alt="GraphQL"></a>
     <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
@@ -85,7 +88,6 @@
     <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
             src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sass.svg" alt="sass"></a>
 </div>
-
 
 <img src='https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg' width='30' /> <img
     src='https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg' width='30' /> <img
