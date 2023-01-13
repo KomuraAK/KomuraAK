@@ -42,7 +42,7 @@
 
 <br><br>
 
-## 🔥 Streak Stats
+## ⚙️ &nbsp;GitHub Analytics
 
 <br>
 <p align="center">
