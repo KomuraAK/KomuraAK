@@ -98,6 +98,8 @@
                         alt="TypeScript"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="Nodejs"></a>
+                        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png" alt="Python"></a>
 </div>
 
 <img src='https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg' width='30' /> <img
