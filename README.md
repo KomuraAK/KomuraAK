@@ -151,7 +151,18 @@
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira"></a>
 </div>
-
+<div align="center">
+        <h4>S.O</h4>
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://seeklogo.com/images/D/debian-logo-C136FDAF9E-seeklogo.com.png" alt="Debian"></a>
+                        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://img.icons8.com/color/512/console.png" alt="Terminal"></a>
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg"
+                        alt="Trello"></a>
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira"></a>
+</div>
 <img src='https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg' width='30' /> <img
         src='https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg' width='30' /> <img
         src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30' /> <img
