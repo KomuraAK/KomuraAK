@@ -134,7 +134,7 @@
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/120px-Blender_logo_no_text.svg.png"
                         alt="Blender"></a>
                         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='35'
-                        src="https://logodownload.org/wp-content/uploads/2020/11/canva-logo-0-1536x1536.png"
+                        src="https://cdn.worldvectorlogo.com/logos/canva-1.svg"
                         alt="Canva"></a>
 
 </div>
