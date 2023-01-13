@@ -127,8 +127,8 @@
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://symbols.getvecta.com/stencil_9/32_aws-elastic-beanstalk.3cbb564d52.svg"
                         alt="ELB"></a>
-        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
-                        src="https://cdn.cdnlogo.com/logos/a/45/aws-api-gateway.svg" alt="MongoDB"></a>
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='35'
+                        src="https://cdn.cdnlogo.com/logos/a/45/aws-api-gateway.svg" alt="APIGateway"></a>
 </div>
 
 <div align="center">
