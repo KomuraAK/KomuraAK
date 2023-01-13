@@ -101,7 +101,7 @@
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png"
                         alt="Python"></a>
-                        <a margin="8" href="https://sass-lang.com" target="_blank"><img margin="10px" width='35'
+                        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='32'
                         src="https://global.discourse-cdn.com/business5/uploads/apollographql/original/1X/25bd5104d61020fe4dc0777a5919cd009bca633e.png"
                         alt="Apollo"></a>
 </div>
