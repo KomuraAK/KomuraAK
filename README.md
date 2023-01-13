@@ -129,8 +129,8 @@
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Inkscape_logo_2.svg/120px-Inkscape_logo_2.svg.png" alt="InkScape"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
-                        src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg"
-                        alt="MySQL"></a>
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/120px-Blender_logo_no_text.svg.png"
+                        alt="Blender"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg" alt="MongoDB"></a>
 </div>
