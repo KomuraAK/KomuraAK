@@ -123,6 +123,9 @@
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg"
                         alt="MongoDB"></a>
+                        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg"
+                        alt="MongoDB"></a>
 </div>
 
 <img src='https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg' width='30' /> <img
