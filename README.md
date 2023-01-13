@@ -18,8 +18,8 @@
                         alt=hshnode style="margin-bottom: 5px;" />
         </a>
         <a href="https://achhoubiplus.hashnode.dev" target="_blank">
-                <img src=https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg?color=FFE332&style=for-the-badge&logo=hashnode&logoColor=white
-                        alt=hshnode style="margin-bottom: 5px;" />
+                <img src=https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg?color=FFE332&style=for-the-badge&logo=Buy me a cofee&logoColor=white
+                        alt="buymeacofe"style="margin-bottom: 5px;" />
         </a>
         <p align="center">
                 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img
