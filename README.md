@@ -155,7 +155,7 @@
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
-                        src="https://img.icons8.com/ios-filled/512/mac-os.png" alt="MacOS"></a>
+                        src="https://www.svgrepo.com/show/303125/apple-logo.svg" alt="MacOS"></a>
 </div>
 <img src='https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg' width='30' /> <img
         src='https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg' width='30' /> <img
