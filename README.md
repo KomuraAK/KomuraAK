@@ -125,6 +125,17 @@
 </div>
 
 <div align="center">
+        <h4>Design</h4>
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PortgreSQL"></a>
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg"
+                        alt="MySQL"></a>
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg" alt="MongoDB"></a>
+</div>
+
+<div align="center">
         <h4>Tools</h4>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PortgreSQL"></a>
