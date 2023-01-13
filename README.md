@@ -113,6 +113,30 @@
                         src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="Express"></a>
 </div>
 
+<div align="center">
+        <h4>Database</h4>
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="Nodejs"></a>
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201"
+                        alt="TypeScript"></a>
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png"
+                        alt="Python"></a>
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='32'
+                        src="https://global.discourse-cdn.com/business5/uploads/apollographql/original/1X/25bd5104d61020fe4dc0777a5919cd009bca633e.png"
+                        alt="Apollo"></a>
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="Csharp"></a>
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_-330x400.png"
+                        alt="Prisma"></a>
+        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI"></a>
+                                <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='85'
+                        src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="Express"></a>
+</div>
+
 <img src='https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg' width='30' /> <img
         src='https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg' width='30' /> <img
         src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30' /> <img
