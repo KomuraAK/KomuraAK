@@ -104,10 +104,10 @@
                         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='32'
                         src="https://global.discourse-cdn.com/business5/uploads/apollographql/original/1X/25bd5104d61020fe4dc0777a5919cd009bca633e.png"
                         alt="Apollo"></a>
-                        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='32'
+                        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"
                         alt="Csharp"></a>
-                         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='32'
+                         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_-330x400.png"
                         alt="Prisma"></a>
 </div>
