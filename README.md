@@ -109,7 +109,7 @@
                         alt="Prisma"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI"></a>
-                                <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                                <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='70'
                         src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="Express"></a>
 </div>
 
