@@ -129,7 +129,7 @@
                         alt="ELB"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='35'
                         src="https://cdn.cdnlogo.com/logos/a/45/aws-api-gateway.svg" alt="APIGateway"></a>
-                         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='35'
+                         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='32'
                         src="https://cdn.worldvectorlogo.com/logos/aws-lambda.svg" alt="Lambda"></a>
 </div>
 
