@@ -114,7 +114,7 @@
 </div>
 
 <div align="center">
-        <h4>Database</h4>
+        <h4>Database/Cloud</h4>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PortgreSQL"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
@@ -122,11 +122,7 @@
                         alt="MySQL"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg" alt="MongoDB"></a>
-</div>
-
-<div align="center">
-        <h4>Cloud</h4>
-        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/428px-Amazon-S3-Logo.svg.png?20220427001138" alt="S3"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://symbols.getvecta.com/stencil_9/32_aws-elastic-beanstalk.3cbb564d52.svg"
