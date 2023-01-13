@@ -72,6 +72,8 @@
     <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201"
             alt="TypeScript"></a>
+             <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+            src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sass.svg" alt="Svelte"></a>
     <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
             src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/graphql.svg" alt="GraphQL"></a>
     <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
