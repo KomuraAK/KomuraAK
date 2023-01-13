@@ -143,6 +143,8 @@
         <h4>Tools</h4>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode"></a>
+                        <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
+                        src="https://img.icons8.com/color/512/console.png" alt="Terminal"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg"
                         alt="Trello"></a>
