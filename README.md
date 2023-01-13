@@ -46,15 +46,13 @@
 
 <br>
 <p align="center">
-<a href="https://github.com/AVS1508">
-  
-         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/AVS1508"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KomuraAK&layout=compact&langs_count=8&theme=algolia"/>
  
 </a>
 </p>
 <p align="left">
         <a href="https://abhigyantrips.dev/">
-                <img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+                <img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KomuraAK&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
                 <img width="49.5%"
                         src="https://github-readme-streak-stats.herokuapp.com/?user=KomuraAK&theme=algolia&hide_border=true" />
         </a>
