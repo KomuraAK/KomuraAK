@@ -53,7 +53,7 @@
 </p>
 <p align="left">
         <a href="https://abhigyantrips.dev/">
-                 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+                 <img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
                 <img width="49.5%"
                         src="https://github-readme-streak-stats.herokuapp.com/?user=KomuraAK&theme=algolia&hide_border=true" />
         </a>
