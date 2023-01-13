@@ -172,6 +172,15 @@
 <br />
 
 <h1>Skills I have! 🤸‍♂</h1>
+
+<p align="left">
+        <a href="https://abhigyantrips.dev/">
+              <ul><ul/>
+        </a>
+         <a href="https://abhigyantrips.dev/">
+              <ul><ul/>
+        </a>
+</p>
 <Br>
 
 |![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
