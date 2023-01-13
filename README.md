@@ -114,7 +114,7 @@
 </div>
 
 <div align="center">
-        <h4>Database/Cloud</h4>
+        <h4>Database&Cloud</h4>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PortgreSQL"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
