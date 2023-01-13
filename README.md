@@ -144,10 +144,10 @@
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
                         src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
-                        src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg"
-                        alt="MySQL"></a>
+                        src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg"
+                        alt="Trello"></a>
         <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" width='30'
-                        src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="MongoDB"></a>
+                        src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira"></a>
 </div>
 
 <img src='https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg' width='30' /> <img
