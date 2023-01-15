@@ -373,7 +373,7 @@
 
 <br />
 
-<h1>Skills I have! 🤸‍♂</h1>
+<h1>Skills I have! 🔥</h1>
 <br />
 <div align="center">
   <table>
@@ -399,6 +399,6 @@
 <hr />
 <br />
 <div align="center">
-  <p>Credits: [Kunal Raghav](https://github.com/KunalRaghav)</p>
-  <p>Last Edited on: 12/12/2020</p>
+  <p>Credits: [Anthony Farias](https://github.com/KomuraAK)</p>
+  <p>Last Edited on: 15/01/2023</p>
 </div>
