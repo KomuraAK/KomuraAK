@@ -197,8 +197,6 @@
 </table>
 </div>
 <br />
-
-<br />
 <hr />
 <br />
 Credits: [Kunal Raghav](https://github.com/KunalRaghav) Last Edited on:
