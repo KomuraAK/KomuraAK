@@ -35,12 +35,9 @@
 </div>
 
 ##
-<picture
-  ><img
+<picture><img
     src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"
-    width="50px"
-/></picture>
-**About me**
+    width="50px"/></picture> **About me**
 
 <picture>
   <img
@@ -52,10 +49,11 @@
 
 <br />
 
-- A self-taught front-end and back-end developer - C# game developer in
-sparetime - Currently learning various skills in technology on my own - Personal
-website [link](https://www.0xabdulkhalid.ml) - I am currently open for a new job
-opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- A self-taught front-end and back-end developer 
+- C# game developer in sparetime 
+- Currently learning various skills in technology on my own 
+- Personal website [link](https://www.0xabdulkhalid.ml) 
+- I am currently open for a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br /><br />
 
@@ -405,8 +403,6 @@ opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 <hr />
 <br />
 <div align="center">
-  <p>
-    Credits: [Kunal Raghav](https://github.com/KunalRaghav) Last Edited on:
-    12/12/2020
-  </p>
+  <p>Credits: [Kunal Raghav](https://github.com/KunalRaghav)</p>
+  <p>Last Edited on: 12/12/2020</p>
 </div>
