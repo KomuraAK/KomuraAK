@@ -179,6 +179,7 @@
     <tbody>
         <tr>
             <td>oi</td>
+            <td>tchau</td>
         </tr>
         <tr>
             <td>oi</td>
