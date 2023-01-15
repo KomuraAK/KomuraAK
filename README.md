@@ -34,11 +34,11 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
+- A self-taught front-end and back-end developer
+- C# game developer in spare time
+- Currently learning various skills in technology by my self
 - Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I am currently open for a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
 
