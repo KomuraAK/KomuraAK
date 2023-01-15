@@ -399,6 +399,6 @@
 <hr />
 <br />
 <div align="center">
-  <p>Credits: [Anthony Farias](https://github.com/KomuraAK)</p>
+  <p>Credits: <a href="https://github.com/KomuraAK">Anthony Farias</a></p>
   <p>Last Edited on: 15/01/2023</p>
 </div>
