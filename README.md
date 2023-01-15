@@ -178,11 +178,12 @@
 <table>
     <tbody>
         <tr>
-            <td>oi</td>
-            <td>tchau</td>
+            <td>Data Science</td>
+            <td>Dashboard</td>
         </tr>
         <tr>
-            <td>oi</td>
+            <td>Web Scraping</td>
+            <td>Web Design</td>
         </tr>
     </tbody>
 </table>
