@@ -175,6 +175,7 @@
 <br />
 
 <h1>Skills I have! 🤸‍♂</h1>
+<br />
 <div align="center">
 <table>
     <tbody>
@@ -183,12 +184,14 @@
             <td>Cloud Science</td>
             <td>Dashboard</td>
             <td>Information Security</td>
+            <td>SCRUM</td>
         </tr>
         <tr>
             <td>Web Scraping</td>
             <td>Web Design</td>
             <td>Computer network</td>
             <td>Team work</td>
+            <td>And More...</td>
         </tr>
     </tbody>
 </table>
