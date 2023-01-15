@@ -175,6 +175,7 @@
 <br />
 
 <h1>Skills I have! 🤸‍♂</h1>
+<div align="center">
 <table>
     <tbody>
         <tr>
@@ -191,7 +192,7 @@
         </tr>
     </tbody>
 </table>
-
+</div>
 <br />
 
 <br />
