@@ -172,12 +172,13 @@
 
 <br />
 
-**About me**
+## About me
 
-<picture> <img align="right"
-                src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif"
-                width=250px>
-</picture>
+- A self-taught front-end and back-end developer
+- C# game developer in spare time
+- Currently learning various skills in technology by my self
+- Personal website [link](https://www.0xabdulkhalid.ml)
+- I am currently open for a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br>
 
