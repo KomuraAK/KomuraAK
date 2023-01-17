@@ -342,6 +342,13 @@
     ><img
       margin="10px"
       width="30"
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="Postman"
+  /></a>
+  <a margin="10" href="https://sass-lang.com" target="_blank"
+    ><img
+      margin="10px"
+      width="30"
       src="https://cdn.worldvectorlogo.com/logos/jira-3.svg"
       alt="Jira"
   /></a>
