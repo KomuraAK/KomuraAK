@@ -51,7 +51,6 @@
 - Personal website [link](https://www.0xabdulkhalid.ml) 
 <!-- - I am currently open for a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid) -->
 
-
 <br /><br />
 
 ## ⚙️ &nbsp;GitHub Analytics
