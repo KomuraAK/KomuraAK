@@ -1,5 +1,4 @@
 <div align="center">
-  
   <h2>
     Hi There, Welcome to my Github profile!
     <img
