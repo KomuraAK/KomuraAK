@@ -43,7 +43,6 @@
   />
 </picture>
 
-
 <br />
 
 - A self-taught front-end and back-end developer 
