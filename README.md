@@ -345,6 +345,13 @@
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
       alt="Postman"
   /></a>
+    <a margin="10" href="https://unity.com/pt" target="_blank"
+    ><img
+      margin="10px"
+      width="30"
+      src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png"
+      alt="Unity"
+  /></a>
   <a margin="10" href="https://www.atlassian.com/br/software/jira" target="_blank"
     ><img
       margin="10px"
