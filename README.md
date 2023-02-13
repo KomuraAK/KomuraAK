@@ -113,28 +113,28 @@
       src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg"
       alt="javascript"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://www.typescriptlang.org/" target="_blank"
     ><img
       margin="10px"
       width="30"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201"
       alt="TypeScript"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://svelte.dev/" target="_blank"
     ><img
       margin="10px"
       width="30"
       src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/svelte.svg"
       alt="Svelte"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://graphql.org/" target="_blank"
     ><img
       margin="10px"
       width="30"
       src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/graphql.svg"
       alt="GraphQL"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://pt-br.reactjs.org/" target="_blank"
     ><img
       margin="10px"
       width="30"
@@ -155,7 +155,7 @@
       src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/tailwind.svg"
       alt="tailwind"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://mui.com" target="_blank"
     ><img
       margin="10px"
       width="30"
@@ -165,56 +165,56 @@
 </div>
 <div align="center">
   <h4>Back-end</h4>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://nodejs.org/en/" target="_blank"
     ><img
       margin="10px"
       width="30"
       src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg"
       alt="Nodejs"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://www.typescriptlang.org/" target="_blank"
     ><img
       margin="10px"
       width="30"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201"
       alt="TypeScript"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://www.python.org/" target="_blank"
     ><img
       margin="10px"
       width="30"
       src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png"
       alt="Python"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://www.apollographql.com/docs/apollo-server/" target="_blank"
     ><img
       margin="10px"
       width="32"
       src="https://global.discourse-cdn.com/business5/uploads/apollographql/original/1X/25bd5104d61020fe4dc0777a5919cd009bca633e.png"
       alt="Apollo"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank"
     ><img
       margin="10px"
       width="30"
       src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"
       alt="Csharp"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://www.prisma.io/" target="_blank"
     ><img
       margin="10px"
       width="30"
       src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_-330x400.png"
       alt="Prisma"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://fastapi.tiangolo.com/" target="_blank"
     ><img
       margin="10px"
       width="30"
       src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg"
       alt="FastAPI"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://expressjs.com/pt-br/" target="_blank"
     ><img
       margin="10px"
       width="85"
@@ -225,35 +225,35 @@
 
 <div align="center">
   <h4>Database&Cloud</h4>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://www.postgresql.org/" target="_blank"
     ><img
       margin="10px"
       width="30"
       src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
       alt="PortgreSQL"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://www.mysql.com/" target="_blank"
     ><img
       margin="10px"
       width="30"
       src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg"
       alt="MySQL"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://www.mongodb.com/" target="_blank"
     ><img
       margin="10px"
       width="30"
       src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg"
       alt="MongoDB"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/Welcome.html" target="_blank"
     ><img
       margin="10px"
       width="30"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/428px-Amazon-S3-Logo.svg.png?20220427001138"
       alt="S3"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://aws.amazon.com/pt/elasticbeanstalk/" target="_blank"
     ><img
       margin="10px"
       width="30"
