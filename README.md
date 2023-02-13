@@ -306,7 +306,7 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/120px-Blender_logo_no_text.svg.png"
       alt="Blender"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://www.canva.com/" target="_blank"
     ><img
       margin="10px"
       width="30"
@@ -317,28 +317,28 @@
 
 <div align="center">
   <h4>Tools</h4>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://code.visualstudio.com/" target="_blank"
     ><img
       margin="10px"
       width="30"
       src="https://code.visualstudio.com/assets/images/code-stable.png"
       alt="VSCode"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview" target="_blank"
     ><img
       margin="10px"
       width="30"
       src="https://img.icons8.com/color/512/console.png"
       alt="Terminal"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://trello.com/pt-BR" target="_blank"
     ><img
       margin="10px"
       width="30"
       src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg"
       alt="Trello"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://www.postman.com/" target="_blank"
     ><img
       margin="10px"
       width="30"
