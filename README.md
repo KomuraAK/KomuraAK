@@ -260,21 +260,21 @@
       src="https://symbols.getvecta.com/stencil_9/32_aws-elastic-beanstalk.3cbb564d52.svg"
       alt="ELB"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://aws.amazon.com/pt/api-gateway/" target="_blank"
     ><img
       margin="10px"
       width="35"
       src="https://cdn.cdnlogo.com/logos/a/45/aws-api-gateway.svg"
       alt="APIGateway"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://aws.amazon.com/pt/lambda/" target="_blank"
     ><img
       margin="10px"
       width="30"
       src="https://cdn.worldvectorlogo.com/logos/aws-lambda.svg"
       alt="Lambda"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://aws.amazon.com/pt/sqs/" target="_blank"
     ><img
       margin="10px"
       width="30"
@@ -285,14 +285,14 @@
 
 <div align="center">
   <h4>Design</h4>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://www.figma.com/" target="_blank"
     ><img
       margin="10px"
       width="15"
       src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/figma.svg"
       alt="Figma"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://inkscape.org/pt-br/" target="_blank"
     ><img
       margin="10px"
       width="30"
