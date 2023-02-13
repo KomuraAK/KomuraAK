@@ -345,14 +345,14 @@
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
       alt="Postman"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://www.atlassian.com/br/software/jira" target="_blank"
     ><img
       margin="10px"
       width="30"
       src="https://cdn.worldvectorlogo.com/logos/jira-3.svg"
       alt="Jira"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://git-scm.com/" target="_blank"
     ><img
       margin="10px"
       width="30"
@@ -362,14 +362,14 @@
 </div>
 <div align="center">
   <h4>S.O</h4>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://www.linux.org/" target="_blank"
     ><img
       margin="10px"
       width="30"
       src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"
       alt="Linux"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://www.apple.com/br/mac/" target="_blank"
     ><img
       margin="10px"
       width="30"
