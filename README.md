@@ -299,7 +299,7 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Inkscape_logo_2.svg/120px-Inkscape_logo_2.svg.png"
       alt="InkScape"
   /></a>
-  <a margin="10" href="https://sass-lang.com" target="_blank"
+  <a margin="10" href="https://www.blender.org/" target="_blank"
     ><img
       margin="10px"
       width="30"
