@@ -407,8 +407,8 @@
         <td>Game Development</td>
       </tr>
        <tr>
-        <td colspan="2">System Architecture</td>
-        <td colspan="2">And More...</td>
+        <td colspan="1.5">System Architecture</td>
+        <td colspan="1.5">And More...</td>
       </tr>
     </tbody>
   </table>
