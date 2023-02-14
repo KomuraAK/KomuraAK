@@ -404,6 +404,11 @@
         <td>Web Design</td>
         <td>Computer network</td>
         <td>Team work</td>
+        <td>Game Development</td>
+      </tr>
+       <tr>
+        <td></td>
+        <td>System Architecture</td>
         <td>And More...</td>
       </tr>
     </tbody>
