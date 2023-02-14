@@ -72,7 +72,7 @@
     />
     <img
       width="49.5%"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=KomuraAK&theme=synthwave&hide_border=true"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=KomuraAK&theme=radical&hide_border=true"
     />
   </a>
 </p>
