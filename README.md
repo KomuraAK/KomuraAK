@@ -60,7 +60,7 @@
   <a href="https://github.com/AVS1508"
     ><img
       height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KomuraAK&hide_border=true&layout=compact&langs_count=8&theme=algolia"
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KomuraAK&hide_border=true&layout=compact&langs_count=8&theme=radical"
     />
   </a>
 </p>
@@ -72,7 +72,7 @@
     />
     <img
       width="49.5%"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=KomuraAK&theme=algolia&hide_border=true"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=KomuraAK&theme=synthwave&hide_border=true"
     />
   </a>
 </p>
