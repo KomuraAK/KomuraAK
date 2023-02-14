@@ -408,8 +408,8 @@
       </tr>
        <tr>
         <td colspan="2">System Architecture</td>
-        <td colspan="2">And More...</td>
-        <td></td>
+        <td colspan="2">And More</td>
+        <td>...</td>
       </tr>
     </tbody>
   </table>
