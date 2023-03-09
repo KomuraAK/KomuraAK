@@ -25,12 +25,9 @@
     <img
     src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white
     alt=hshnode style="margin-bottom: 5px;" />
-  </a>
+  </a><br><br>
   <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"
-      ><img
-        src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=Coder..&hearts;++;Front+End+Developer,;Back+End+Developer,;Cloud+Science+Student,;Data+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"
-    /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1700&pause=900&color=0EFF03&multiline=true&width=570&height=100&lines=I+love+coding+%F0%9F%92%9A+%F0%9F%92%BB;Front+end+developer+%26+Back+end+developer;Studying+about+data+science+and+cloud+computing;init+6" alt="Typing SVG" /></a>
   </p>
 </div>
 
