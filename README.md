@@ -97,7 +97,7 @@
     ><img
       margin="10px"
       width="30"
-      src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg"
+      src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"
       alt="css"
   /></a>
   <a
