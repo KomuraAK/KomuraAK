@@ -87,7 +87,7 @@
     ><img
       width="30"
       margin="10px"
-      src="https://iconscout.com/icons/html5"
+      src="https://cdn.worldvectorlogo.com/logos/html-1.svg"
       alt="html"
   /></a>
   <a
