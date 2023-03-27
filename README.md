@@ -87,7 +87,7 @@
     ><img
       width="30"
       margin="10px"
-      src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg"
+      src="https://www.svgrepo.com/show/303205/html-5-logo.svg"
       alt="html"
   /></a>
   <a
