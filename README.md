@@ -87,7 +87,7 @@
     ><img
       width="30"
       margin="10px"
-      src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
+      src="https://iconscout.com/icons/html5"
       alt="html"
   /></a>
   <a
