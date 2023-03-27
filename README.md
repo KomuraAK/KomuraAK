@@ -97,7 +97,7 @@
     ><img
       margin="10px"
       width="30"
-      src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817"
       alt="css"
   /></a>
   <a
