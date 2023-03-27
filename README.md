@@ -166,7 +166,7 @@
     ><img
       margin="10px"
       width="30"
-      src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg"
+      src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
       alt="Nodejs"
   /></a>
   <a margin="10" href="https://www.typescriptlang.org/" target="_blank"
