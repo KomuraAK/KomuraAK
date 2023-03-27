@@ -279,7 +279,7 @@
     ><img
       margin="10px"
       width="15"
-      src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/figma.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436"
       alt="Figma"
   /></a>
   <a margin="10" href="https://inkscape.org/pt-br/" target="_blank"
