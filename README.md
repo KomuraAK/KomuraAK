@@ -128,7 +128,7 @@
     ><img
       margin="10px"
       width="30"
-      src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/graphql.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png?20161105194737"
       alt="GraphQL"
   /></a>
   <a margin="10" href="https://pt-br.reactjs.org/" target="_blank"
