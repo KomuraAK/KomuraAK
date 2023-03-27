@@ -57,7 +57,7 @@
   <a href="https://github.com/AVS1508"
     ><img
       height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KomuraAK&hide_border=true&layout=compact&langs_count=8&theme=algolia"
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anthonysfarias&hide_border=true&layout=compact&langs_count=8&theme=algolia"
     />
   </a>
 </p>
@@ -65,11 +65,11 @@
   <a href="https://abhigyantrips.dev/">
     <img
       width="49.5%"
-      src="https://github-readme-stats-eight-theta.vercel.app/api?username=KomuraAK&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=anthonysfarias&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
     />
     <img
       width="49.5%"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=KomuraAK&theme=radical&hide_border=true"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=anthonysfarias&theme=radical&hide_border=true"
     />
   </a>
 </p>
@@ -415,6 +415,6 @@
 <hr />
 <br />
 <div align="center">
-  <p>Credits: <a href="https://github.com/KomuraAK">Anthony Farias</a></p>
+  <p>Credits: <a href="https://github.com/anthonysfarias">Anthony Farias</a></p>
   <p>Last Edited on: 14-fev-2023</p>
 </div>
