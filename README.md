@@ -85,7 +85,7 @@
     href="https://developer.mozilla.org/en-US/docs/Web/HTML"
     target="_blank"
     ><img
-      width="25"
+      width="26"
       margin="10px"
       src="https://cdn.worldvectorlogo.com/logos/html-1.svg"
       alt="html"
