@@ -87,7 +87,7 @@
     ><img
       width="30"
       margin="10px"
-      src="https://www.svgrepo.com/show/303205/html-5-logo.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
       alt="html"
   /></a>
   <a
