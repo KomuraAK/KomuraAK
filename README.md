@@ -211,13 +211,6 @@
       src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg"
       alt="FastAPI"
   /></a>
-  <a margin="10" href="https://expressjs.com/pt-br/" target="_blank"
-    ><img
-      margin="10px"
-      width="85"
-      src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg"
-      alt="Express"
-  /></a>
 </div>
 
 <div align="center">
