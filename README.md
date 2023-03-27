@@ -233,7 +233,7 @@
     ><img
       margin="10px"
       width="30"
-      src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg"
+      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
       alt="MongoDB"
   /></a>
   <a margin="10" href="https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/Welcome.html" target="_blank"
