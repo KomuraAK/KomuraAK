@@ -120,7 +120,7 @@
   <a margin="10" href="https://svelte.dev/" target="_blank"
     ><img
       margin="10px"
-      width="30"
+      width="26"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/498px-Svelte_Logo.svg.png?20191219133350"
       alt="Svelte"
   /></a>
