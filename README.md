@@ -107,7 +107,7 @@
     ><img
       margin="10px"
       width="30"
-      src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902"
       alt="javascript"
   /></a>
   <a margin="10" href="https://www.typescriptlang.org/" target="_blank"
