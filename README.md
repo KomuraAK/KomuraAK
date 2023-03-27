@@ -149,7 +149,7 @@
     ><img
       margin="10px"
       width="30"
-      src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/tailwind.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333"
       alt="tailwind"
   /></a>
   <a margin="10" href="https://mui.com" target="_blank"
