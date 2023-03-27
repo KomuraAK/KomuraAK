@@ -156,7 +156,7 @@
     ><img
       margin="10px"
       width="30"
-      src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg"
+      src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"
       alt="Mui"
   /></a>
 </div>
