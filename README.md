@@ -48,7 +48,18 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <br />
-[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=dracula&utcOffset=-3)]
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+    <img
+      width="49.5%"
+      src="https://github-readme-activity-graph.cyclic.app/graph?username=isaac545454&bg_color=red&color=bd93f9&line=bd93f9&point=f1f5f9&area=true&hide_border=true"
+    />
+    <img
+      width="49.5%"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=anthonysfarias&theme=radical&hide_border=true"
+    />
+  </a>
+</p>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
     <img
