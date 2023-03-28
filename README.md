@@ -56,7 +56,7 @@
     />
     <img
       width="49.5%"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=dracula&utcOffset=-3"
+      src="https://github.com/ashutosh00710/github-readme-activity-graph"
     />
   </a>
 </p>
