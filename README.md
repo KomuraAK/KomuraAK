@@ -48,14 +48,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <br />
-<p align="center">
-  <a href="https://github.com/AVS1508"
-    ><img
-      height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anthonysfarias&hide_border=true&layout=compact&langs_count=8&theme=algolia"
-    />
-  </a>
-</p>
+[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=dracula&utcOffset=-3)]
 <p align="left">
   <a href="https://abhigyantrips.dev/">
     <img
