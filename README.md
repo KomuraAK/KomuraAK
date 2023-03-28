@@ -48,9 +48,10 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <br />
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=anthonysfarias&row=1&column=6&theme=radical&margin-w=15&margin-h=15"/></p>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
-    <img src="https://github-profile-trophy.vercel.app/?username=anthonysfarias&row=1&column=6&theme=radical&margin-w=15&margin-h=15"/>
     <img
       width="49.5%"
       src="https://github-readme-activity-graph.cyclic.app/graph?username=anthonysfarias&bg_color=red&color=bd93f9&line=bd93f9&point=f1f5f9&area=true&hide_border=true"
