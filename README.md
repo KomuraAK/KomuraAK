@@ -56,7 +56,7 @@
     />
     <img
       width="49.5%"
-      src="https://github.com/ashutosh00710/github-readme-activity-graph"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaac545454&theme=dracula"
     />
   </a>
 </p>
