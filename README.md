@@ -56,7 +56,7 @@
     />
     <img
       width="49.5%"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=anthonysfarias&theme=radical&hide_border=true"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=dracula&utcOffset=-3"
     />
   </a>
 </p>
