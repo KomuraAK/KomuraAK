@@ -49,9 +49,9 @@
 
 <br />
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anthonysfarias&row=1&column=6&theme=radical&margin-w=15&margin-h=15"/></p>
+  <img src="https://github-profile-trophy.vercel.app/?username=anthonysfarias&row=1&column=6&theme=radical&margin-w=15&margin-h=15"/>
+</p>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
     <img
       width="49.5%"
       src="https://github-readme-activity-graph.cyclic.app/graph?username=anthonysfarias&bg_color=red&color=bd93f9&line=bd93f9&point=f1f5f9&area=true&hide_border=true"
@@ -60,10 +60,8 @@
       width="49.5%"
       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonysfarias&theme=radical"
     />
-  </a>
 </p>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
     <img
       width="49.5%"
       src="https://github-readme-stats-eight-theta.vercel.app/api?username=anthonysfarias&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
@@ -72,7 +70,6 @@
       width="49.5%"
       src="https://github-readme-streak-stats.herokuapp.com/?user=anthonysfarias&theme=radical&hide_border=true"
     />
-  </a>
 </p>
 <br />
 
