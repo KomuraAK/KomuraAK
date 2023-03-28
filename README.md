@@ -52,11 +52,11 @@
   <a href="https://abhigyantrips.dev/">
     <img
       width="49.5%"
-      src="https://github-readme-activity-graph.cyclic.app/graph?username=isaac545454&bg_color=red&color=bd93f9&line=bd93f9&point=f1f5f9&area=true&hide_border=true"
+      src="https://github-readme-activity-graph.cyclic.app/graph?username=anthonysfarias&bg_color=red&color=bd93f9&line=bd93f9&point=f1f5f9&area=true&hide_border=true"
     />
     <img
       width="49.5%"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaac545454&theme=dracula"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonysfarias&theme=radical"
     />
   </a>
 </p>
