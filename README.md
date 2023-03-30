@@ -98,6 +98,13 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817"
       alt="css"
   /></a>
+   <a margin="10" href="https://www.python.org/" target="_blank"
+    ><img
+      margin="10px"
+      width="30"
+      src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png"
+      alt="Python"
+  /></a>
   <a
     margin="10"
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -131,13 +138,6 @@
       width="30"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201"
       alt="TypeScript"
-  /></a>
-  <a margin="10" href="https://www.python.org/" target="_blank"
-    ><img
-      margin="10px"
-      width="30"
-      src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png"
-      alt="Python"
   /></a>
   <a margin="10" href="https://www.apollographql.com/docs/apollo-server/" target="_blank"
     ><img
