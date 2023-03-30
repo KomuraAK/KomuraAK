@@ -131,12 +131,19 @@
       src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
       alt="Nodejs"
   /></a>
-    <a margin="10" href="https://pt-br.reactjs.org/" target="_blank"
+   <a margin="10" href="https://pt-br.reactjs.org/" target="_blank"
     ><img
       margin="10px"
       width="30"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207"
       alt="ReactJS"
+  /></a>
+  <a margin="10" href="https://graphql.org/" target="_blank"
+    ><img
+      margin="10px"
+      width="30"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png?20161105194737"
+      alt="GraphQL"
   /></a>
   <a margin="10" href="https://www.apollographql.com/docs/apollo-server/" target="_blank"
     ><img
@@ -151,6 +158,15 @@
       width="30"
       src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg"
       alt="FastAPI"
+  /></a>
+</div>
+<div align="center">
+<a margin="10" href="https://getbootstrap.com" target="_blank"
+    ><img
+      margin="10px"
+      width="30"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024"
+      alt="bootstrap"
   /></a>
 </div>
 
@@ -313,20 +329,6 @@
       width="30"
       src="https://www.svgrepo.com/show/303125/apple-logo.svg"
       alt="MacOS"
-  /></a>
-  <a margin="10" href="https://graphql.org/" target="_blank"
-    ><img
-      margin="10px"
-      width="30"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png?20161105194737"
-      alt="GraphQL"
-  /></a>
-  <a margin="10" href="https://getbootstrap.com" target="_blank"
-    ><img
-      margin="10px"
-      width="30"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024"
-      alt="bootstrap"
   /></a>
   <a margin="10" href="https://tailwindcss.com" target="_blank"
     ><img
