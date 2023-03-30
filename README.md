@@ -162,7 +162,7 @@
   <a margin="10" href="https://getbootstrap.com" target="_blank"
     ><img
       margin="10px"
-      width="35"
+      width="33"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024"
       alt="bootstrap"
   /></a>
