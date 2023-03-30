@@ -122,8 +122,6 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201"
       alt="TypeScript"
   /></a>
-</div>
-<div align="center">
   <a margin="10" href="https://nodejs.org/en/" target="_blank"
     ><img
       margin="10px"
@@ -131,6 +129,8 @@
       src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
       alt="Nodejs"
   /></a>
+</div>
+<div align="center">
    <a margin="10" href="https://pt-br.reactjs.org/" target="_blank"
     ><img
       margin="10px"
@@ -159,9 +159,7 @@
       src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg"
       alt="FastAPI"
   /></a>
-</div>
-<div align="center">
-<a margin="10" href="https://getbootstrap.com" target="_blank"
+  <a margin="10" href="https://getbootstrap.com" target="_blank"
     ><img
       margin="10px"
       width="30"
@@ -169,9 +167,7 @@
       alt="bootstrap"
   /></a>
 </div>
-
 <div align="center">
-  <h4>Database&Cloud</h4>
   <a margin="10" href="https://www.postgresql.org/" target="_blank"
     ><img
       margin="10px"
