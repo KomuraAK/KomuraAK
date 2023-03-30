@@ -138,33 +138,12 @@
       src="https://global.discourse-cdn.com/business5/uploads/apollographql/original/1X/25bd5104d61020fe4dc0777a5919cd009bca633e.png"
       alt="Apollo"
   /></a>
-  <a margin="10" href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank"
-    ><img
-      margin="10px"
-      width="30"
-      src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"
-      alt="Csharp"
-  /></a>
-  <a margin="10" href="https://www.prisma.io/" target="_blank"
-    ><img
-      margin="10px"
-      width="30"
-      src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_-330x400.png"
-      alt="Prisma"
-  /></a>
   <a margin="10" href="https://fastapi.tiangolo.com/" target="_blank"
     ><img
       margin="10px"
       width="30"
       src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg"
       alt="FastAPI"
-  /></a>
-  <a margin="10" href="https://svelte.dev/" target="_blank"
-    ><img
-      margin="10px"
-      width="26"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/498px-Svelte_Logo.svg.png?20191219133350"
-      alt="Svelte"
   /></a>
 </div>
 
@@ -362,6 +341,27 @@
       width="30"
       src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"
       alt="Mui"
+  /></a>
+   <a margin="10" href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank"
+    ><img
+      margin="10px"
+      width="30"
+      src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"
+      alt="Csharp"
+  /></a>
+   <a margin="10" href="https://www.prisma.io/" target="_blank"
+    ><img
+      margin="10px"
+      width="30"
+      src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_-330x400.png"
+      alt="Prisma"
+  /></a>
+  <a margin="10" href="https://svelte.dev/" target="_blank"
+    ><img
+      margin="10px"
+      width="26"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/498px-Svelte_Logo.svg.png?20191219133350"
+      alt="Svelte"
   /></a>
 </div>
 
