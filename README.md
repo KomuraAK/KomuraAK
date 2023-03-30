@@ -131,13 +131,6 @@
       src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
       alt="Nodejs"
   /></a>
-  <a margin="10" href="https://www.typescriptlang.org/" target="_blank"
-    ><img
-      margin="10px"
-      width="30"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201"
-      alt="TypeScript"
-  /></a>
   <a margin="10" href="https://www.apollographql.com/docs/apollo-server/" target="_blank"
     ><img
       margin="10px"
