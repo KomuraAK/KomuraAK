@@ -77,7 +77,7 @@
 
 <br />
 <div align="center">
-  <h4>Languages that I work with</h4>
+  <h4>Languages and technologies that I currently work with</h4>
   <a
     margin="10"
     href="https://developer.mozilla.org/en-US/docs/Web/HTML"
@@ -124,7 +124,6 @@
   /></a>
 </div>
 <div align="center">
-  <h4>Back-end</h4>
   <a margin="10" href="https://nodejs.org/en/" target="_blank"
     ><img
       margin="10px"
