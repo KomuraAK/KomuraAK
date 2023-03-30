@@ -77,7 +77,7 @@
 
 <br />
 <div align="center">
-  <h4>Front-end</h4>
+  <h4>Languages that I work with</h4>
   <a
     margin="10"
     href="https://developer.mozilla.org/en-US/docs/Web/HTML"
@@ -114,48 +114,6 @@
       width="30"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201"
       alt="TypeScript"
-  /></a>
-  <a margin="10" href="https://svelte.dev/" target="_blank"
-    ><img
-      margin="10px"
-      width="26"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/498px-Svelte_Logo.svg.png?20191219133350"
-      alt="Svelte"
-  /></a>
-  <a margin="10" href="https://graphql.org/" target="_blank"
-    ><img
-      margin="10px"
-      width="30"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png?20161105194737"
-      alt="GraphQL"
-  /></a>
-  <a margin="10" href="https://pt-br.reactjs.org/" target="_blank"
-    ><img
-      margin="10px"
-      width="30"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207"
-      alt="ReactJS"
-  /></a>
-  <a margin="10" href="https://getbootstrap.com" target="_blank"
-    ><img
-      margin="10px"
-      width="30"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024"
-      alt="bootstrap"
-  /></a>
-  <a margin="10" href="https://tailwindcss.com" target="_blank"
-    ><img
-      margin="10px"
-      width="30"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333"
-      alt="tailwind"
-  /></a>
-  <a margin="10" href="https://mui.com" target="_blank"
-    ><img
-      margin="10px"
-      width="30"
-      src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"
-      alt="Mui"
   /></a>
 </div>
 <div align="center">
@@ -208,6 +166,13 @@
       width="30"
       src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg"
       alt="FastAPI"
+  /></a>
+  <a margin="10" href="https://svelte.dev/" target="_blank"
+    ><img
+      margin="10px"
+      width="26"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/498px-Svelte_Logo.svg.png?20191219133350"
+      alt="Svelte"
   /></a>
 </div>
 
@@ -370,6 +335,41 @@
       width="30"
       src="https://www.svgrepo.com/show/303125/apple-logo.svg"
       alt="MacOS"
+  /></a>
+  <a margin="10" href="https://graphql.org/" target="_blank"
+    ><img
+      margin="10px"
+      width="30"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png?20161105194737"
+      alt="GraphQL"
+  /></a>
+  <a margin="10" href="https://pt-br.reactjs.org/" target="_blank"
+    ><img
+      margin="10px"
+      width="30"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207"
+      alt="ReactJS"
+  /></a>
+  <a margin="10" href="https://getbootstrap.com" target="_blank"
+    ><img
+      margin="10px"
+      width="30"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024"
+      alt="bootstrap"
+  /></a>
+  <a margin="10" href="https://tailwindcss.com" target="_blank"
+    ><img
+      margin="10px"
+      width="30"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333"
+      alt="tailwind"
+  /></a>
+  <a margin="10" href="https://mui.com" target="_blank"
+    ><img
+      margin="10px"
+      width="30"
+      src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"
+      alt="Mui"
   /></a>
 </div>
 
