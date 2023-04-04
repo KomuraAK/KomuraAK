@@ -183,19 +183,19 @@
       src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg"
       alt="MySQL"
   /></a>
+   <a margin="10" href="https://www.figma.com/" target="_blank"
+    ><img
+      margin="10px"
+      width="15"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436"
+      alt="Figma"
+  /></a>
   <a margin="10" href="https://aws.amazon.com/" target="_blank"
     ><img
       margin="10px"
       width="30"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png?20170912170050"
       alt="AWS"
-  /></a>
-    <a margin="10" href="https://www.figma.com/" target="_blank"
-    ><img
-      margin="10px"
-      width="15"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436"
-      alt="Figma"
   /></a>
 </div>
 
