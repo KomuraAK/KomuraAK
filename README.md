@@ -183,20 +183,6 @@
       src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg"
       alt="MySQL"
   /></a>
-  <a margin="10" href="https://www.mongodb.com/" target="_blank"
-    ><img
-      margin="10px"
-      width="30"
-      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
-      alt="MongoDB"
-  /></a>
-  <a margin="10" href="https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/Welcome.html" target="_blank"
-    ><img
-      margin="10px"
-      width="30"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/428px-Amazon-S3-Logo.svg.png?20220427001138"
-      alt="S3"
-  /></a>
   <a margin="10" href="https://aws.amazon.com/" target="_blank"
     ><img
       margin="10px"
@@ -204,17 +190,17 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png?20170912170050"
       alt="AWS"
   /></a>
-</div>
-
-<div align="center">
-  <h4>Design</h4>
-  <a margin="10" href="https://www.figma.com/" target="_blank"
+    <a margin="10" href="https://www.figma.com/" target="_blank"
     ><img
       margin="10px"
       width="15"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436"
       alt="Figma"
   /></a>
+</div>
+
+<div align="center">
+  <h4>Design</h4>
   <a margin="10" href="https://inkscape.org/pt-br/" target="_blank"
     ><img
       margin="10px"
@@ -340,6 +326,13 @@
       width="26"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/498px-Svelte_Logo.svg.png?20191219133350"
       alt="Svelte"
+  /></a>
+    <a margin="10" href="https://www.mongodb.com/" target="_blank"
+    ><img
+      margin="10px"
+      width="30"
+      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
+      alt="MongoDB"
   /></a>
 </div>
 
