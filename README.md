@@ -197,6 +197,13 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png?20170912170050"
       alt="AWS"
   /></a>
+    <a margin="10" href="https://www.linux.org/" target="_blank"
+    ><img
+      margin="10px"
+      width="30"
+      src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"
+      alt="Linux"
+  /></a>
 </div>
 
 <div align="center">
@@ -278,13 +285,6 @@
 </div>
 <div align="center">
   <h4>S.O</h4>
-  <a margin="10" href="https://www.linux.org/" target="_blank"
-    ><img
-      margin="10px"
-      width="30"
-      src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"
-      alt="Linux"
-  /></a>
   <a margin="10" href="https://www.apple.com/br/mac/" target="_blank"
     ><img
       margin="10px"
