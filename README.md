@@ -197,33 +197,12 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/428px-Amazon-S3-Logo.svg.png?20220427001138"
       alt="S3"
   /></a>
-  <a margin="10" href="https://aws.amazon.com/pt/elasticbeanstalk/" target="_blank"
+  <a margin="10" href="https://aws.amazon.com/" target="_blank"
     ><img
       margin="10px"
       width="30"
-      src="https://symbols.getvecta.com/stencil_9/32_aws-elastic-beanstalk.3cbb564d52.svg"
-      alt="ELB"
-  /></a>
-  <a margin="10" href="https://aws.amazon.com/pt/api-gateway/" target="_blank"
-    ><img
-      margin="10px"
-      width="35"
-      src="https://cdn.cdnlogo.com/logos/a/45/aws-api-gateway.svg"
-      alt="APIGateway"
-  /></a>
-  <a margin="10" href="https://aws.amazon.com/pt/lambda/" target="_blank"
-    ><img
-      margin="10px"
-      width="30"
-      src="https://cdn.worldvectorlogo.com/logos/aws-lambda.svg"
-      alt="Lambda"
-  /></a>
-  <a margin="10" href="https://aws.amazon.com/pt/sqs/" target="_blank"
-    ><img
-      margin="10px"
-      width="30"
-      src="https://seeklogo.com/images/A/aws-sqs-simple-queue-service-logo-8884A71ECB-seeklogo.com.png"
-      alt="SQS"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png?20170912170050"
+      alt="AWS"
   /></a>
 </div>
 
