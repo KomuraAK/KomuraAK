@@ -186,7 +186,7 @@
    <a margin="10" href="https://www.figma.com/" target="_blank"
     ><img
       margin="10px"
-      width="18"
+      width="20"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436"
       alt="Figma"
   /></a>
