@@ -246,7 +246,7 @@
 </div>
 
 <div align="center">
-  <h4>Design</h4>
+  <h4>other skills...</h4>
   <a margin="10" href="https://inkscape.org/pt-br/" target="_blank"
     ><img
       margin="10px"
@@ -271,7 +271,6 @@
 </div>
 
 <div align="center">
-  <h4>Tools</h4>
   <a margin="10" href="https://trello.com/pt-BR" target="_blank"
     ><img
       margin="10px"
