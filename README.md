@@ -271,13 +271,6 @@
 </div>
 
 <div align="center">
-  <a margin="10" href="https://trello.com/pt-BR" target="_blank"
-    ><img
-      margin="10px"
-      width="30"
-      src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg"
-      alt="Trello"
-  /></a>
     <a margin="10" href="https://unity.com/pt" target="_blank"
     ><img
       margin="10px"
@@ -285,9 +278,6 @@
       src="https://cdn-icons-png.flaticon.com/512/5969/5969347.png"
       alt="Unity"
   /></a>
-</div>
-<div align="center">
-  <h4>S.O</h4>
   <a margin="10" href="https://www.apple.com/br/mac/" target="_blank"
     ><img
       margin="10px"
@@ -316,6 +306,8 @@
       src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"
       alt="Csharp"
   /></a>
+</div>
+<div align="center">
    <a margin="10" href="https://www.prisma.io/" target="_blank"
     ><img
       margin="10px"
