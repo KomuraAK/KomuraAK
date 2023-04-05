@@ -221,6 +221,13 @@
         src="https://img.icons8.com/color/512/console.png"
         alt="Terminal"
     /></a>
+    <a margin="10" href="https://www.atlassian.com/br/software/jira" target="_blank"
+      ><img
+        margin="10px"
+        width="30"
+        src="https://cdn.worldvectorlogo.com/logos/jira-3.svg"
+       alt="Jira"
+    /></a>
 </div>
 
 <div align="center">
@@ -245,13 +252,6 @@
       width="30"
       src="https://cdn.worldvectorlogo.com/logos/canva-1.svg"
       alt="Canva"
-  /></a>
-    <a margin="10" href="https://www.atlassian.com/br/software/jira" target="_blank"
-    ><img
-      margin="10px"
-      width="30"
-      src="https://cdn.worldvectorlogo.com/logos/jira-3.svg"
-      alt="Jira"
   /></a>
 </div>
 
