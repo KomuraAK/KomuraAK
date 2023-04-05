@@ -207,6 +207,23 @@
 </div>
 
 <div align="center">
+  <a margin="10" href="https://code.visualstudio.com/" target="_blank"
+      ><img
+        margin="10px"
+        width="30"
+        src="https://code.visualstudio.com/assets/images/code-stable.png"
+        alt="VSCode"
+    /></a>
+    <a margin="10" href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview" target="_blank"
+      ><img
+        margin="10px"
+        width="30"
+        src="https://img.icons8.com/color/512/console.png"
+        alt="Terminal"
+    /></a>
+</div>
+
+<div align="center">
   <h4>Design</h4>
   <a margin="10" href="https://inkscape.org/pt-br/" target="_blank"
     ><img
@@ -229,24 +246,17 @@
       src="https://cdn.worldvectorlogo.com/logos/canva-1.svg"
       alt="Canva"
   /></a>
+    <a margin="10" href="https://www.atlassian.com/br/software/jira" target="_blank"
+    ><img
+      margin="10px"
+      width="30"
+      src="https://cdn.worldvectorlogo.com/logos/jira-3.svg"
+      alt="Jira"
+  /></a>
 </div>
 
 <div align="center">
   <h4>Tools</h4>
-  <a margin="10" href="https://code.visualstudio.com/" target="_blank"
-    ><img
-      margin="10px"
-      width="30"
-      src="https://code.visualstudio.com/assets/images/code-stable.png"
-      alt="VSCode"
-  /></a>
-  <a margin="10" href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview" target="_blank"
-    ><img
-      margin="10px"
-      width="30"
-      src="https://img.icons8.com/color/512/console.png"
-      alt="Terminal"
-  /></a>
   <a margin="10" href="https://trello.com/pt-BR" target="_blank"
     ><img
       margin="10px"
@@ -267,13 +277,6 @@
       width="30"
       src="https://cdn-icons-png.flaticon.com/512/5969/5969347.png"
       alt="Unity"
-  /></a>
-  <a margin="10" href="https://www.atlassian.com/br/software/jira" target="_blank"
-    ><img
-      margin="10px"
-      width="30"
-      src="https://cdn.worldvectorlogo.com/logos/jira-3.svg"
-      alt="Jira"
   /></a>
   <a margin="10" href="https://git-scm.com/" target="_blank"
     ><img
