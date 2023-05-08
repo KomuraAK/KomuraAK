@@ -312,7 +312,7 @@
     ><img
       margin="10px"
       width="30"
-      src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg"
+      src="https://www.svgrepo.com/show/374002/prisma.svg"
       alt="Prisma"
   /></a>
   <a margin="10" href="https://svelte.dev/" target="_blank"
