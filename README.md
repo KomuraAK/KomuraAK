@@ -312,7 +312,7 @@
     ><img
       margin="10px"
       width="30"
-      src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_-330x400.png"
+      src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg"
       alt="Prisma"
   /></a>
   <a margin="10" href="https://svelte.dev/" target="_blank"
