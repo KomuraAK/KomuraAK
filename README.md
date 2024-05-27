@@ -1,6 +1,6 @@
 <div align="center">
   <h2>
-    Hi There, Welcome to my Github profile!
+    Olá, bem-vindo ao meu perfil do Github!
     <img
       src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif"
       width="30"
@@ -22,11 +22,11 @@
     alt=instagram style="margin-bottom: 5px;" />
   </a><br><br> -->
   <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1700&pause=900&color=0EFF03&multiline=true&width=570&height=100&lines=I+love+coding+%F0%9F%92%9A+%F0%9F%92%BB;Front+end+developer+%26+Back+end+developer;Studying+about+data+science+and+cloud+computing;init+6" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1700&pause=900&color=0EFF03&multiline=true&width=570&height=100&lines=Eu+amo+codificar+%F0%9F%92%9A+%F0%9F%92%BB;Desenvolvedor+front-end+%26+Desenvolvedor+back-end;Estudando+sobre+ciência+de+dados+e+computação+em+nuvem;init+6" alt="Typing SVG" /></a>
   </p>
 </div>
 
-## <picture> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"/></picture> **About me**
+## <picture> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"/></picture> **Sobre mim**
 <picture>
   <img
     align="right"
@@ -37,15 +37,15 @@
 
 <br />
 
-- A self-taught front-end and back-end developer 
-- C++, GD game developer in sparetime 
-- Currently learning various skills in technology on my own 
-- Personal website [link](https://anthonysfarias.vercel.app/) 
-<!-- - I am currently open for a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid) -->
+- Um desenvolvedor autodidata de front-end e back-end
+- Desenvolvedor de jogos em C++, GD no tempo livre
+- Atualmente aprendendo várias habilidades em tecnologia por conta própria
+- Website pessoal [link](https://anthonysfarias.vercel.app/)
+<!-- - Atualmente estou aberto a novas oportunidades de emprego, este é [meu currículo](https://read.cv/0xabdulkhalid) -->
 
 <br /><br />
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;Análise do GitHub
 
 <br />
 <p align="center">
@@ -73,14 +73,14 @@
 </p>
 <br />
 
-## Tech Stack
+## Pilha de Tecnologia
 
 <br />
 <div align="center">
-  <h4>Languages and technologies that I currently work with</h4>
+  <h4>Linguagens e tecnologias com as quais trabalho atualmente</h4>
   <a
     margin="10"
-    href="https://developer.mozilla.org/en-US/docs/Web/HTML"
+    href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"
     target="_blank"
     ><img
       width="26"
@@ -90,7 +90,7 @@
   /></a>
   <a
     margin="10"
-    href="https://developer.mozilla.org/en-US/docs/Web/CSS"
+    href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"
     target="_blank"
     ><img
       margin="10px"
@@ -105,9 +105,9 @@
       src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png"
       alt="Python"
   /></a>
-  <a
+    <a
     margin="10"
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
     target="_blank"
     ><img
       margin="10px"
@@ -246,7 +246,7 @@
 </div>
 
 <div align="center">
-  <h4>other skills...</h4>
+  <h4>outras habilidades...</h4>
   <a margin="10" href="https://inkscape.org/pt-br/" target="_blank"
     ><img
       margin="10px"
@@ -333,28 +333,28 @@
 
 <br />
 
-<h1>Skills I have! 🔥</h1>
+<h1>Habilidades que eu tenho! 🔥</h1>
 <br />
 <div align="center">
   <table>
     <tbody>
       <tr>
-        <td>Data Science</td>
-        <td>Cloud Science</td>
-        <td>Dashboard</td>
-        <td>Information Security</td>
+        <td>Ciência de Dados</td>
+        <td>Computação em Nuvem</td>
+        <td>Painel</td>
+        <td>Segurança da Informação</td>
         <td>SCRUM</td>
       </tr>
       <tr>
         <td>Web Scraping</td>
-        <td>Web Design</td>
-        <td>Computer network</td>
-        <td>Team work</td>
-        <td>Game Development</td>
+        <td>Design Web</td>
+        <td>Rede de Computadores</td>
+        <td>Trabalho em equipe</td>
+        <td>Desenvolvimento de Jogos</td>
       </tr>
        <tr>
-        <td colspan="2">System Architecture</td>
-        <td colspan="2">And More</td>
+        <td colspan="2">Arquitetura de Sistemas</td>
+        <td colspan="2">E Mais</td>
         <td>...</td>
       </tr>
     </tbody>
@@ -364,6 +364,8 @@
 <hr />
 <br />
 <div align="center">
-  <p>Credits: <a href="https://github.com/anthonysfarias">Anthony Farias</a></p>
-  <p>Last Edited on: 2023-04-05</p>
+  <p>Créditos: <a href="https://github.com/anthonysfarias">Anthony Farias</a></p>
+  <p>Última Edição em: 2023-04-05</p>
 </div>
+
+
