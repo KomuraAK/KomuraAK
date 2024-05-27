@@ -365,7 +365,7 @@
 <br />
 <div align="center">
   <p>Créditos: <a href="https://github.com/anthonysfarias">Anthony Farias</a></p>
-  <p>Última Edição em: 2023-04-05</p>
+  <p>Última Edição em: 2024-05-26</p>
 </div>
 
 
