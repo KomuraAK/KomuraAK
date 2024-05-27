@@ -21,8 +21,8 @@
     src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white
     alt=instagram style="margin-bottom: 5px;" />
   </a><br><br> -->
-  <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1700&pause=900&color=0EFF03&multiline=true&width=570&height=100&lines=Eu+amo+codificar+%F0%9F%92%9A+%F0%9F%92%BB;Desenvolvedor+front-end+%26+Desenvolvedor+back-end;Estudando+sobre+ciência+de+dados+e+computação+em+nuvem;init+6" alt="Typing SVG" /></a>
+   <p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1700&pause=900&color=0EFF03&multiline=true&width=570&height=100&lines=I+love+coding+%F0%9F%92%9A+%F0%9F%92%BB;Front+end+developer+%26+Back+end+developer;Studying+about+data+science+and+cloud+computing;init+6" alt="Typing SVG" /></a>
   </p>
 </div>
 
