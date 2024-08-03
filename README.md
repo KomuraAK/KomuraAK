@@ -149,7 +149,7 @@
     ><img
       margin="10px"
       width="32"
-      src="https://global.discourse-cdn.com/business5/uploads/apollographql/original/1X/25bd5104d61020fe4dc0777a5919cd009bca633e.png"
+      src="https://www.apollographql.com/assets/logos/apollo-symbol-regolith.svg"
       alt="Apollo"
   /></a>
   <a margin="10" href="https://fastapi.tiangolo.com/" target="_blank"
