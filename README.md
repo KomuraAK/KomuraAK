@@ -315,7 +315,7 @@
     </tr>
     <tr>
       <td>Programação e Desenvolvimento de Software</td>
-      <td>Experiência em várias linguagens de programação, incluindo Java, Python, PHP, e frameworks como Laravel e Spring.</td>
+      <td>Experiência em várias linguagens de programação, incluindo JS, TS, Python, e frameworks como Express e Next.js</td>
     </tr>
     <tr>
       <td>Banco de Dados</td>
