@@ -249,3 +249,86 @@
 </div>
 <br />
 
+## 🛠️ &nbsp;Minhas Habilidades
+
+<br />
+
+<table align="center">
+  <thead>
+    <tr>
+      <th><b>Habilidade</b></th>
+      <th><b>Descrição</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Resolução de Problemas</td>
+      <td>Capacidade de identificar, analisar e solucionar problemas de maneira eficiente e criativa.</td>
+    </tr>
+    <tr>
+      <td>Comunicação</td>
+      <td>Habilidade em expressar ideias de forma clara e objetiva, tanto de forma escrita quanto verbal.</td>
+    </tr>
+    <tr>
+      <td>Trabalho em Equipe</td>
+      <td>Capacidade de colaborar de forma eficaz com colegas para atingir objetivos comuns.</td>
+    </tr>
+    <tr>
+      <td>Gestão de Tempo</td>
+      <td>Organização de tarefas e compromissos, garantindo que prazos sejam cumpridos com eficiência.</td>
+    </tr>
+    <tr>
+      <td>Aprendizado Contínuo</td>
+      <td>Facilidade em aprender novas habilidades e tecnologias, mantendo-se atualizado com as tendências do mercado.</td>
+    </tr>
+    <tr>
+      <td>Adaptabilidade</td>
+      <td>Capacidade de se ajustar a novas situações e ambientes, aprendendo rapidamente com mudanças.</td>
+    </tr>
+    <tr>
+      <td>Redes de Computadores</td>
+      <td>Conhecimento profundo em topologias de redes, protocolos de comunicação, segurança em redes e administração de servidores de rede.</td>
+    </tr>
+    <tr>
+      <td>Configuração e Gestão de Servidores</td>
+      <td>Experiência na configuração e administração de servidores Linux e Windows, com foco em segurança e desempenho.</td>
+    </tr>
+    <tr>
+      <td>Segurança em Redes</td>
+      <td>Habilidade em implementar soluções de segurança, como firewalls, VPNs e monitoramento de tráfego de rede, para proteger dados e infraestrutura.</td>
+    </tr>
+    <tr>
+      <td>Infraestrutura em Nuvem</td>
+      <td>Experiência com soluções em nuvem (AWS, Azure, Google Cloud), incluindo configuração, gerenciamento e escalabilidade de recursos em nuvem.</td>
+    </tr>
+    <tr>
+      <td>Desenvolvimento de Aplicações Web</td>
+      <td>Conhecimento em frameworks como Angular, React, Vue.js, além de experiência com APIs RESTful e integração com bancos de dados.</td>
+    </tr>
+    <tr>
+      <td>DevOps</td>
+      <td>Experiência com integração contínua (CI) e entrega contínua (CD), utilizando ferramentas como Jenkins, Docker e Kubernetes.</td>
+    </tr>
+    <tr>
+      <td>Análise de Sistemas</td>
+      <td>Capacidade de entender as necessidades do cliente e transformá-las em soluções técnicas eficientes, usando metodologias ágeis como SCRUM.</td>
+    </tr>
+    <tr>
+      <td>Programação e Desenvolvimento de Software</td>
+      <td>Experiência em várias linguagens de programação, incluindo Java, Python, PHP, e frameworks como Laravel e Spring.</td>
+    </tr>
+    <tr>
+      <td>Banco de Dados</td>
+      <td>Conhecimento em administração de bancos de dados relacionais (MySQL, PostgreSQL) e NoSQL (MongoDB), com habilidades em otimização de consultas.</td>
+    </tr>
+    <tr>
+      <td>Desenvolvimento Mobile</td>
+      <td>Experiência no desenvolvimento de aplicativos móveis usando tecnologias híbridas como React Native e Flutter.</td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+
+
+
